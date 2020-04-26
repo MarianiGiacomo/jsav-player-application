@@ -4,9 +4,9 @@
 [submodule "jsav-exercise-player"]
 	path = jsav-exercise-player
 	url = git@github.com:MarianiGiacomo/jsav-exercise-player.git
-[submodule "jsav-palyer-application-test-server"]
-	path = jsav-palyer-application-test-server
-	url = git@github.com:MarianiGiacomo/jsav-palyer-application-test-server.git
 [submodule "jsav-player-application-test-app"]
 	path = jsav-player-application-test-app
 	url = git@github.com:MarianiGiacomo/jsav-player-application-test-app.git
+[submodule "jsav-palyer-application-test-server"]
+	path = jsav-palyer-application-test-server
+	url = git@github.com:MarianiGiacomo/jsav-palyer-application-test-server.git
