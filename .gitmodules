@@ -7,6 +7,8 @@
 [submodule "jsav-player-application-test-app"]
 	path = jsav-player-application-test-app
 	url = git@github.com:MarianiGiacomo/jsav-player-application-test-app.git
+	master = master
+	default = master
 [submodule "jsav-palyer-application-test-server"]
 	path = jsav-palyer-application-test-server
 	url = git@github.com:MarianiGiacomo/jsav-palyer-application-test-server.git
