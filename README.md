@@ -11,3 +11,7 @@ The submodules for the test application are:
 
 If you want to get all the submodules you can clone this repository with:
 `git clone --recurse-submodules https://github.com/MarianiGiacomo/jsav-player-application.git`
+
+The picture below shows how the Exercise Recorder (exercise-recorder-bundle.js) and the Exercise Player (exercise-player-bundle.js & exercise-player.html) are integrated in the test application.
+
+![](./test-application.png)
