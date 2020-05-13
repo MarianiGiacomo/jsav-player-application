@@ -1,1 +1,1 @@
-cp jsav-exercise-recorder/build/jsav-exercise-recorder-bundle.js jsav-palyer-application-test-server/public/lib/
+cp jsav-exercise-recorder/build/jsav-exercise-recorder-bundle.js jsav-player-application-test-server/public/lib/

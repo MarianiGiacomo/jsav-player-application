@@ -1,7 +1,7 @@
 const fs  = require('fs');
 
 const originFilePath = "jsav-exercise-player/player.html";
-const destinationFilePath = "jsav-palyer-application-test-server/public/jsav-player/player.html";
+const destinationFilePath = "jsav-player-application-test-server/public/jsav-player/player.html";
 
 try {
   console.log('Reading origin file', originFilePath);
